@@ -33,12 +33,12 @@ List of the tools and uasge
 
 | __BluetoothTool__ | __Hardware Requirements__ | 
 | -------------------|---------------------------|
-| [Gattacker](https://github.com/securing/gattacker)         | CSR 4.0                   | 
-| [Bluez](http://www.bluez.org/)             | CSR 4.0                   | 
-| [bettercap](https://www.bettercap.org/)         | CSR 4.0                   |
-| [btlejuice](https://github.com/DigitalSecurity/btlejuice)         | CSR 4.0                   |
-| [nrfconnect](https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop)        | NRF52840                  |
-| [sniffle](https://github.com/nccgroup/Sniffle)           | TI CC1352R                |
+| 1. [Gattacker](https://github.com/securing/gattacker)         | CSR 4.0                   | 
+| 2. [Bluez](http://www.bluez.org/)             | CSR 4.0                   | 
+| 3. [bettercap](https://www.bettercap.org/)         | CSR 4.0                   |
+| 4. [btlejuice](https://github.com/DigitalSecurity/btlejuice)         | CSR 4.0                   |
+| 5. [nrfconnect](https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop)        | NRF52840                  |
+| 6. [sniffle](https://github.com/nccgroup/Sniffle)           | TI CC1352R                |
 
 
 	
