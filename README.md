@@ -1,7 +1,9 @@
 # Tools
 List of the tools and uasge 
 
-| ---- | ----| ----|
+
+| Software Tools | Version | Purpose |
+| --- | --- | --- |
 |__IoT Penetration testing Framework__  |
 | --------------------------------------|
 | 1.[IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz)			        |
