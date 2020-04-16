@@ -5,9 +5,9 @@ List of the tools and uasge
 | Software Tools | Version | Purpose |
 | --- | --- | --- |
 |__IoT Penetration testing Framework__  |
-| 1.[IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz)			        |
-| 2.[Expliot Framework](https://gitlab.com/expliot_framework/expliot)                   |
-| 3.[Routersploit](https://github.com/threat9/routersploit)			|
+| 1.[IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) |
+| 2.[Expliot Framework](https://gitlab.com/expliot_framework/expliot) |
+| 3.[Routersploit](https://github.com/threat9/routersploit) |
 
 
 | __Firmware Reverse engineering    :__      |
