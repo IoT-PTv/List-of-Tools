@@ -5,14 +5,14 @@ List of the tools and uasge
 | Software Tools | Version |  |
 | --- | --- | --- |
 |  __IoT Penetration testing Framework__  |
-|  Expliot Framework | V 0.7.2 | https://gitlab.com/expliot_framework/expliot |
+|  Expliot Framework | v0.7.2 | https://gitlab.com/expliot_framework/expliot |
 |  IoTSecFuzz | v1.0 | https://gitlab.com/invuls/iot-projects/iotsecfuzz | 
 |  Routersploit | v3.4.1 | https://github.com/threat9/routersploit |
 | __Firmware Reverse engineering    :__      |
-| 1. [binwalk](https://github.com/ReFirmLabs/binwalk)                            |
+| 1. binwalk | v2.2.0 | https://github.com/ReFirmLabs/binwalk  |
 | 2. [firmwalker](https://github.com/craigz28/firmwalker)                         |
-| 3. [FACT-core](https://github.com/fkie-cad/FACT_core)                          |
-| 4. [radare2](https://github.com/radareorg/radare2)                            |
+| 3. FACT-core | v3.1-dev | https://github.com/fkie-cad/FACT_core)                          |
+| 4. radare2 | |(https://github.com/radareorg/radare2)                            |
 | 5. [capstone](http://www.capstone-engine.org/)                           |
 | 6. [angr](https://github.com/angr/angr)                               |
 | 7. [flawfinder](https://github.com/david-a-wheeler/flawfinder)                         |
