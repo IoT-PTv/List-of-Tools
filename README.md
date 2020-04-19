@@ -34,7 +34,7 @@ List of the tools and uasge
 |__Android and iOS Analyzers:__ |
 | MobSF | v3.0 | https://github.com/MobSF/Mobile-Security-Framework-MobSF           |
 | QARK | v4.0.0 |https://github.com/linkedin/qark)            | 
-| Objection | https://github.com/sensepost/objection       |
+| Objection | v0.0.1 | https://github.com/sensepost/objection       |
 |__Vulnerability Assessment tools___|
 | Openvas | v9 |vhttps://www.openvas.org/download.html    |
 |__Network assessment tools:__ |
