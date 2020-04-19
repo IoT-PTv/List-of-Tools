@@ -22,7 +22,7 @@ List of the tools and uasge
 | Qemu | v2.11.1 | https://github.com/qemu/qemu |	
 | Qiling | v1.0-rc1 | https://github.com/qilingframework/qiling |
 | Firmadyne | | https://github.com/firmadyne/firmadyne        		|
-| __BluetoothTool__ | __Hardware Requirements__ | 
+| __BluetoothTool__ |  
 | Bluez | v5.48 | http://www.bluez.org | 
 | bettercap | v2.26.1 |https://www.bettercap.org |
 | btlejuice | v1.1.11 | https://github.com/DigitalSecurity/btlejuice |
