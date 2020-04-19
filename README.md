@@ -31,6 +31,8 @@ List of the tools and uasge
 |__Hardware:__	    |
 | flashrom | v0.9.9-r1954 | https://flashrom.org/Flashrom |
 | openocd|  0.10.0 | https://github.com/ntfreak/openocd   |	
+| screen | v4.06.02 | |
+| putty | v0.70 | https://www.putty.org/ |
 |__Android and iOS Analyzers:__ |
 | MobSF | v3.0 | https://github.com/MobSF/Mobile-Security-Framework-MobSF           |
 | QARK | v4.0.0 |https://github.com/linkedin/qark)            | 
