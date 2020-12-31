@@ -39,8 +39,8 @@ echo "**********************************************"
 
 sudo apt-get update && sudo apt-get upgrade 
 sudo apt-get install flashrom openocd putty screen 
-mkdir -p hardware
-cd hardware
+#mkdir -p hardware
+#cd hardware
 
 
 echo "**********************************************"
@@ -67,8 +67,8 @@ echo " ______              _  _
  
 echo "**********************************************"
 
-mkdir -p radio
-cd radio
+#mkdir -p radio
+#cd radio
     sudo add-apt-repository ppa:gnuradio/gnuradio-releases
     sudo apt-get update
     sudo apt-get install gnuradio 
