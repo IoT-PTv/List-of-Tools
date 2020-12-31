@@ -85,7 +85,7 @@ echo "______ _            _              _   _
 echo "**********************************************"
                                          "
 
-$sudo sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade
 #mkdir -p session-owasp
 #cd session-owasp
 echo ******Dependencies******
