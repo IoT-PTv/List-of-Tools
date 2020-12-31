@@ -69,11 +69,9 @@ echo "**********************************************"
 
 mkdir -p radio
 cd radio
-if
     sudo add-apt-repository ppa:gnuradio/gnuradio-releases
     sudo apt-get update
     sudo apt-get install gnuradio 
-fi    
                             
 echo "**********************************************"
 
