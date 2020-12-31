@@ -83,7 +83,6 @@ echo "______ _            _              _   _
 \____/|_|\__,_|\___|\__\___/ \___/ \__|_| |_|"
 
 echo "**********************************************"
-                                         "
 
 sudo apt-get update && sudo apt-get upgrade
 #mkdir -p session-owasp
