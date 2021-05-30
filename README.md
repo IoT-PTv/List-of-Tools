@@ -1,6 +1,7 @@
-# Tools
-List of the tools and uasge 
+## Toolsv1 - IoTPTv1
 
+**List of the tools and uasge 
+**
 
 | Software Tools | Version | Link |
 | --- | --- | --- |
@@ -55,3 +56,15 @@ List of the tools and uasge
 |__Requirements__|
 | capstone |  | http://www.capstone-engine.org |
 | unicorn engine | v1.0.2rc3 | https://github.com/unicorn-engine/unicorn |
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Tools v2 - IoTPTv2
+**List of the tools and uasge 
+**
+
+| Software Tools | Version | Link |
+| --- | --- | --- |
+|  __IoT Penetration Testing Frameworks__  |
+|  Expliot Framework | v0.7.2 | https://gitlab.com/expliot_framework/expliot |
